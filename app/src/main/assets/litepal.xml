@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="guoguo_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.guoguoclimate.android.db.Province"/>
+        <mapping class="com.guoguoclimate.android.db.City"/>
+        <mapping class="com.guoguoclimate.android.db.Country"/>
+    </list>
+</litepal>
